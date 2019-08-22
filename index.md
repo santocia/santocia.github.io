@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+Github Code Development
+Compare version control
 ### Header 3
 
 - Bulleted
@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/santocia/santocia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
 
 ### Support or Contact
 
